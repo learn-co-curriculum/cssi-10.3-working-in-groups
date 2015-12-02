@@ -22,3 +22,5 @@ We also want to give you a few strategies for being successful with project mode
 * Backwards plan your milestones
 * Give yourself brain breaks (a walk, a goofy youtube video, water/snack break)
 * Ask for help when you need it
+
+<a href='https://learn.co/lessons/cssi-10.3-working-in-groups' data-visibility='hidden'>View this lesson on Learn.co</a>
