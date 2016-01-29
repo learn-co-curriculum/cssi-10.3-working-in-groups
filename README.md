@@ -23,4 +23,4 @@ We also want to give you a few strategies for being successful with project mode
 * Give yourself brain breaks (a walk, a goofy youtube video, water/snack break)
 * Ask for help when you need it
 
-<a href='https://learn.co/lessons/cssi-10.3-working-in-groups' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-10.3-working-in-groups' title='WORKING IN GROUPS NORMS & STRATEGIES'>WORKING IN GROUPS NORMS & STRATEGIES</a> on Learn.co and start learning to code for free.</p>
